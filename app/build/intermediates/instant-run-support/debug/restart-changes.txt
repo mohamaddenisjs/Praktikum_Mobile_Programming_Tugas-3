@@ -1,0 +1,2 @@
+CHANGED,C:\AndroidStudioProjects\belajarSharedPreference\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\galih\belajarsharedpreference\MainActivity$2.class
+CHANGED,C:\AndroidStudioProjects\belajarSharedPreference\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\galih\belajarsharedpreference\MainActivity.class

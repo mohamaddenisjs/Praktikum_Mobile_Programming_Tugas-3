@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="hdpi"
+    format="7"
+    timestamp="599077055743200"
+    token="4428085884542768426"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="120" />
+    <task
+        name="instant-run-dex"
+        duration="284" />
+    <task
+        name="instant-run-transform"
+        duration="34" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\AndroidStudioProjects\belajarSharedPreference\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="597788652271566" >
+        <artifact
+            location="C:\AndroidStudioProjects\belajarSharedPreference\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="598191799276296"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\AndroidStudioProjects\belajarSharedPreference\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="599044711973127" >
+        <artifact
+            location="C:\AndroidStudioProjects\belajarSharedPreference\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="599077055743200"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\AndroidStudioProjects\belajarSharedPreference\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
